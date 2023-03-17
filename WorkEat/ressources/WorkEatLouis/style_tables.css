@@ -356,9 +356,6 @@ body{
     align-items: center;
     justify-content: center;
 }
-.container a {
-    text-decoration: none;
-}
 .iconTable{
     width: 60%;
     display: flex;

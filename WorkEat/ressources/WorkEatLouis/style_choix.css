@@ -18,6 +18,10 @@ body{
 
 }
 
+a {
+    text-decoration: none;
+}
+
 .choisir_tables{
     display: flex;
     align-items: center;
